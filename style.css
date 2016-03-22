@@ -1,0 +1,23 @@
+#container {
+    background-color: none;
+    height: 960px;
+    width: 960px;
+}
+.unit {
+    background-color: white;
+    height: 58px;
+    width: 58px;
+    border: 1px solid #000;
+    margin:none;
+    padding:none;
+    display: inline-block;
+    float: left
+}
+
+button{
+    background-color:gray;
+    padding:10px;
+    
+    
+}
+}
