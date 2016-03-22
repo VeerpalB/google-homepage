@@ -1,5 +1,6 @@
-# google-homepage
+# Colour Squares
 The html project for theodinproject
 
-Acess html project outline here:http://www.theodinproject.com/web-development-101/html-css
+Access html project outline here: http://www.theodinproject.com/web-development-101/javascript-and-jquery
 
+View the outcome here: http://jsfiddle.net/cbLhf2ou/
